@@ -36,12 +36,6 @@ int main() {
     cout << "\n Umur: " << mhs.umur;
 }
 
-
-
-
-
-
-
 int main()
 {
     std::cout << "Hello World!\n";
